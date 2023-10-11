@@ -1,5 +1,5 @@
 # About Me👋
----
+
 - 🔭 I’m currently working on Capstone 
 - 🌱 I’m currently learning C# .Net framework 
 - 📫 How to reach me: officialshintyv@gmail.com
