@@ -1,6 +1,6 @@
 # About Me👋
 
-- 🔭 I’m currently an IT Intern
+- 🔭 I’m currently a Full-stack web developer
 - 🌱 I’m currently learning Laravel 
 - 📫 How to reach me: officialshintyv@gmail.com
 - 😄 Pronouns: He/Him
